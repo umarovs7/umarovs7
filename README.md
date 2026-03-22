@@ -18,6 +18,7 @@
 - ❔ [DailQuiz 👩‍💻](https://dailyquiz.pythonanywhere.com)
 - 💬 [Appvote 👩‍💻](https://appvote.up.railway.app)
 - 🏫 [28-IDUMI School Site](https://28idumi.uz)
+- 🏫 [ASTIEDU International Site](https://international.astiedu.uz/)
 - 🏥 [Face Jaw Surgery](https://yuzjagjarrohligi.uz/)
 - 🛍️ Store, Quiz, and more hosted on [Netlify](https://www.netlify.com/)
 
