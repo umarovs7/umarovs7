@@ -41,8 +41,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1umarovs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1umarovs&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarovs7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarovs7&layout=compact&theme=radical)
 
 ---
 
